@@ -16,7 +16,7 @@ import Auth from './pages/Auth';
 import Wishlist from './pages/Wishlist';
 import Checkout from './pages/Checkout';
 import About from './pages/About';
-import TrackOrder from './pages/TrackOrder'; // 👈 Naya page import kiya
+import TrackOrder from "./pages/TrackOrder.jsx"; // .jsx add karke dekho // 👈 Naya page import kiya
 import Returns from './pages/Returns';       // 👈 Naya page import kiya
 import Terms from './pages/Terms';           // 👈 Naya page import kiya
 import Privacy from './pages/Privacy';       // 👈 Naya page import kiya
